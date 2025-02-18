@@ -1,4 +1,4 @@
-# IA - Azure Vision Studio
+# IA - Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 **Para a ramificação, subpastas, "INPUT", temos um exemplo de reconhecimento de caracter óptico conforme abaixo:**
  * /INPUT/Vision_Studio/Optical_Clharacter_Recognition/"Extract text from images"/IMAGEM1/cartão_banco.png 
